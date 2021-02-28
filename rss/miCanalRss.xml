@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Informatica de hoy </title>
+    <link>http://example.com/</link>
+    <description>Mi primero canal de informatica de rss</description>
+    <item>
+      <title>OnionShare: comparte archivos y comunícate de manera anónima</title>
+      <link>http://example.com/2002/09/01</link>
+      <description>
+        <img src="" alt="" />
+        ¿Conocías OnionShare? Si eres un usuario temeroso de su privacidad, el nombre ya te habrá dado pistas del origen de esta herramienta.
+      </description>
+      <pubDate>27 Feb 2021</pubDate>
+      <author>Yassine Menssouri</author>
+    </item>
+    <item>
+      <title>Telegram amplía la eliminación automática de mensajes, la capacidad de los grupos y más</title>
+      <link>http://example.com/2002/09/02</link>
+      <description>Esta semana se ha actualizado Telegram y como suele suceder cada vez que pasas esto, llegan novedades interesantes para los usuarios de este versátil cliente de mensajería instantánea, tanto para quienes lo usen a través de las aplicaciones móviles como para quienes lo hagan también en PC</description>
+      <pubDate>27 Feb 2021</pubDate>
+      <author>Yassine Menssouri</author>
+    </item>
+    <item>
+      <title>Facebook quiere que sus gafas de realidad aumentada te reconozcan</title>
+      <link></link>
+      <description>
+        <img src="" alt=""/>
+        Los planes de Facebook me preocupan. Me preocupan mucho, y cada día me hacen pensar que la red social de Mark Zuckerberg ha perdido el norte por completo, y que el concepto de la privacidad que manejan poco o nada tiene que ver con lo que podemos considerar razonable.
+      </description>
+      <pubDate>27 Feb 2021</pubDate>
+      <author>Yassine Menssouri</author>
+    </item>
+    <item>
+      <title>Microsoft elimina la carpeta Objetos 3D, la más inútil de Windows 10</title>
+      <link ></link>
+      <description>
+        <img src="" alt=""/>
+        Microsoft ha eliminado la carpeta Objetos 3D de Windows 10 en la última versión de prueba del sistema operativo. No es una simple anécdota, ya que viene a confirmar el fiasco de la Realidad Mixta (VR y AR) en el mercado de consumo.
+      </description>
+      <pubDate>27 Feb 2021</pubDate>
+      <author>Yassine Menssouri</author>
+    </item>
+  </channel>
+</rss>
