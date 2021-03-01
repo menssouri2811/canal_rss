@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    
+    <title>Informatica de hoy </title>
+    <link>http://example.com/</link>
+    <description>Mi primero canal de informatica de rss</description>
+       <item>
+      <title>Este es mi primero canal rss </title>
+      <link>http://example.com/2002/09/01</link>
+      <description>
+        Canal Rss de noticias de informatica.        
+        <![CDATA[<br/> <img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/ym.png"></img> ]]>
+      </description>
+      <pubDate>Sun, 27 Feb 2021 14:00:00 GMT</pubDate>
+      <author>menssouri2811@gmail.com</author>
+    </item>
+
+    <item>
+      <title>OnionShare: comparte archivos y comunícate de manera anónima</title>
+      <link>http://example.com/2002/09/01</link>
+      <description>
+        ¿Conocías OnionShare? Si eres un usuario temeroso de su privacidad, el nombre ya te habrá dado pistas del origen de esta herramienta.
+
+        <![CDATA[<img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/OnionShare-1.png"></img> ]]>
+      </description>
+      <pubDate>Sun, 27 Feb 2021 14:00:00 GMT</pubDate>
+      <author>menssouri2811@gmail.com</author>
+    </item>
+
+    <item>
+      <title>Telegram amplía la eliminación automática de mensajes, la capacidad de los grupos y más</title>
+      <link>http://example.com/2002/09/02</link>
+      <description>
+        Esta semana se ha actualizado Telegram y como suele suceder cada vez que pasas esto, llegan novedades interesantes para los usuarios de este versátil cliente de mensajería instantánea, tanto para quienes lo usen a través de las aplicaciones móviles como para quienes lo hagan también en PC
+       <![CDATA[<img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/Telegram-2.png"></img> ]]>
+      </description>
+
+      <pubDate>Sun, 27 Feb 2021 14:00:00 GMT</pubDate>
+      <author>menssouri2811@gmail.com</author>
+    </item>
+
+    <item>
+      <title>Facebook quiere que sus gafas de realidad aumentada te reconozcan</title>
+      <link>http://example.com/2002/09/01</link>
+      <description>
+        Los planes de Facebook me preocupan. Me preocupan mucho, y cada día me hacen pensar que la red social de Mark Zuckerberg ha perdido el norte por completo, y que el concepto de la privacidad que manejan poco o nada tiene que ver con lo que podemos considerar razonable.
+        <br/>
+        <![CDATA[<img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/facebook.jpg"></img> ]]>
+      </description>
+      <pubDate>Sun, 27 Feb 2021 14:00:00 GMT</pubDate>
+      <author>menssouri2811@gmail.com</author>
+    </item>
+
+    <item>
+      <title>Microsoft elimina la carpeta Objetos 3D, la más inútil de Windows 10</title>
+      <link >http://example.com/2002/09/01</link>
+      <description>
+        Microsoft ha eliminado la carpeta Objetos 3D de Windows 10 en la última versión de prueba del sistema operativo. No es una simple anécdota, ya que viene a confirmar el fiasco de la Realidad Mixta (VR y AR) en el mercado de consumo.
+        <br/>
+        <![CDATA[<img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/microsoft.jpg"></img> ]]>
+      </description>
+      <pubDate>Sun, 27 Feb 2021 14:00:00 GMT</pubDate>
+      <author>menssouri2811@gmail.com</author>
+    </item>
+  </channel>
+</rss>
