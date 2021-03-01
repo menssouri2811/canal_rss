@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Informatica de hoy </title>
+    <link href="https://menssouri2811.github.io/canal_rss/"/>
+    <updated>2021-02-28T18:30:02Z</updated>
+    <author>
+        <name>Yassine menssouri</name>
+    </author>
+    <id>https://menssouri2811.github.io/canal_rss/</id>
+    <entry>
+        <title>Este es mi primero canal rss </title>
+        <id>https://menssouri2811.github.io/canal_rss/</id>
+        <link href="https://menssouri2811.github.io/canal_rss/"/>
+        <content type="html">
+            <![CDATA[Canal Rss de noticias de informatica. <br/><img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/ym.png" />]]>
+        </content>
+        <updated>2021-02-28T17:26:02Z</updated>
+        <author>
+            <email>menssouri2811@gmail.com</email>
+            <name>Yassine Menssouri</name>
+        </author>
+    </entry>
+    <entry>
+        <title>OnionShare: comparte archivos y comunícate de manera anónima</title>
+        <id>https://menssouri2811.guithub.io/canal_rss/</id>
+        <link href="https://menssouri2811.github.io/canal_rss/"/>
+        <content type="html">
+            <![CDATA[¿Conocías OnionShare? Si eres un usuario temeroso de su privacidad, el namebre ya te habrá dado pistas del origen de esta herramienta.
+            <img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/OnionShare-1.png" />]]>
+        </content>
+        <updated>2021-02-28T17:06:02Z</updated>
+        <author>
+            <email>menssouri2811@gmail.com</email>
+            <name>Yassine Menssouri</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Telegram amplía la eliminación automática de mensajes, la capacidad de los grupos y más</title>
+        <id>https://menssouri2811.gitirhub.io/canal_rss/</id>
+        <link href="https://menssouri2811.github.io/canal_rss/"/>
+
+        <content type="html">
+            <![CDATA[Esta semana se ha actualizado Telegram y como suele suceder cada vez que pasas esto, llegan novedades interesantes para los usuarios de este versátil cliente de mensajería instantánea, tanto para quienes lo usen a través de las aplicaciones móviles como para quienes lo hagan también en PC
+            <img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/Telegram-2.png" />]]>
+        </content>
+        <updated>2021-02-28T16:45:42Z</updated>
+        <author>
+            <email>menssouri2811@gmail.com</email>
+            <name>Yassine Menssouri</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Facebook quiere que sus gafas de realidad aumentada te reconozcan</title>
+        <id>https://menssouri2811.github.io/caunal_rss/</id>
+        <link href="https://menssouri2811.github.io/canal_rss/"/>
+        <content type="html">
+            <![CDATA[Los planes de Facebook me preocupan. Me preocupan mucho, y cada día me hacen pensar que la red social de Mark Zuckerberg ha perdido el norte por completo, y que el concepto de la privacidad que manejan poco o nada tiene que ver con lo que podemos considerar razonable.
+            <img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/facebook.jpg" />]]>
+        </content>
+        <updated>2021-02-28T15:21:02Z</updated>
+        <author>
+            <email>menssouri2811@gmail.com</email>
+            <name>Yassine Menssouri</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Microsoft elimina la carpeta Objetos 3D, la más inútil de Windows 10</title>
+        <id>https://menssouri2811.github.io/icanal_rss/</id>
+        <link href="https://menssouri2811.github.io/canal_rss/"/>
+        <content type="html">
+            <![CDATA[Microsoft ha eliminado la carpeta Objetos 3D de Windows 10 en la última versión de prueba del sistema operativo. No es una simple anécdota, ya que viene a confirmar el fiasco de la Realidad Mixta (VR y AR) en el mercado de consumo.
+            <img src="https://raw.githubusercontent.com/menssouri2811/canal_rss/main/rss/img/microsoft.jpg" />]]>
+        </content>
+        <updated>2021-02-28T14:56:02Z</updated>
+        <author>
+            <email>menssouri2811@gmail.com</email>
+            <name>Yassine Menssouri</name>
+        </author>
+    </entry>
+
+</feed>
